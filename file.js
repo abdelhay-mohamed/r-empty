@@ -4,3 +4,11 @@ function Greeting(name, age, status) {
 }
 
 Greeting("Abdelhay", 21, "Good")
+
+
+function SUM(a, b) {
+    console.log(a + b);
+    return;
+
+}
+SUM(15, 5)
